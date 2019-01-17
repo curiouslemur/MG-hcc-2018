@@ -104,11 +104,11 @@
                   "votes": 31665,
                   "c13": 4450, "c25": 21781
               },{"dep": "TSIROANOMANDIDY", "id": 1202,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": , "c25":
+                  "inscrits": 173554,
+                  "votants": 108089,
+                  "bn": 9512,
+                  "votes": 98577,
+                  "c13": 21071, "c25": 66450
               }]
         },{ "reg": "ITASY","id": 13, "prov": "TNR",
             "inscrits": 363214,
@@ -118,23 +118,23 @@
             "c8": 1538, "c12": 4187, "c13": 44429, "c25": 150769,
             "departments":[
               {"dep": "ARIVONIMAMO", "id": 1301,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": , "c25":
+                  "inscrits": 153084,
+                  "votants": 100724,
+                  "bn": 7668,
+                  "votes": 93056,
+                  "c13": 17114, "c25": 65901
               },{"dep": "MIARINARIVO", "id": 1302,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": , "c25":
+                  "inscrits": 112579,
+                  "votants": 71972,
+                  "bn": 5789,
+                  "votes": 66183,
+                  "c13": 13929, "c25": 44819
               },{"dep": "SOAVINANDRIANA", "id": 1303,
-                "inscrits":
-                "votants":
-                "bn":
-                "votes":
-                "c13": , "c25":
+                "inscrits": 97551,
+                "votants": 65985,
+                "bn": 5497,
+                "votes": 60488,
+                "c13": 13386, "c25": 40049
             }]
         },{"reg": "VAKINANKARATRA", "id": 14, "prov": "TNR",
             "inscrits": 834272,
