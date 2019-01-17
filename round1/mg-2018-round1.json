@@ -98,11 +98,11 @@
             "c12": 2334, "c13": 25521, "c25": 88231,
             "departments":[
               {"dep": "FENOARIVOBE", "id": 1201,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": , "c25":
+                  "inscrits": 57664,
+                  "votants": 33723,
+                  "bn": 2058,
+                  "votes": 31665,
+                  "c13": 4450, "c25": 21781
               },{"dep": "TSIROANOMANDIDY", "id": 1202,
                   "inscrits":
                   "votants":
