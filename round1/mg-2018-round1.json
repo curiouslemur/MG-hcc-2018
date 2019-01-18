@@ -613,35 +613,35 @@
             "c13": 95854, "c25": 114722,
             "departments": [
               {"dep" : "AMBATONDRAZAKA", "id": 5101,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 143134,
+                  "votants": 82295,
+                  "bn": 6929,
+                  "votes": 75366,
+                  "c13": 28722,"c25": 34268
               },{"dep" : "AMPARAFARAVOLA", "id": 5102,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 135359,
+                  "votants": 81019,
+                  "bn": 6147,
+                  "votes": 74872,
+                  "c13": 16244,"c25": 47379
               },{"dep" : "ANDILAMENA", "id": 5103,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 39100,
+                  "votants": 20244,
+                  "bn": 1796,
+                  "votes": 18448,
+                  "c13": 4851,"c25": 8408
               },{"dep" : "ANOSIBE AN'ALA", "id": 5104,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 40902,
+                  "votants": 21860,
+                  "bn": 1711,
+                  "votes": 20149,
+                  "c13": 11272,"c25": 3414
               },{"dep" : "MORAMANGA", "id": 5105,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 134374,
+                  "votants": 71662,
+                  "bn": 4037,
+                  "votes": 67625,
+                  "c13": 34765,"c25": 21253
               }]
         },{ "reg": "ANALANJIROFO", "id": 52, "prov": "TMM",
             "inscrits": 431555,
@@ -651,41 +651,41 @@
             "c13": 114854, "c25": 17458,
             "departments": [
               {"dep" : "FENERIVE EST", "id": 5201,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 118144,
+                  "votants": 69087,
+                  "bn": 5892,
+                  "votes": 63195,
+                  "c13": 41889,"c25": 4066
               },{"dep" : "MANANARA NORD", "id": 5202,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 83935,
+                  "votants": 47348,
+                  "bn": 2839,
+                  "votes": 44509,
+                  "c13": 19386,"c25": 1757
               },{"dep" : "MAROANTSETRA", "id": 5203,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 93184,
+                  "votants": 52248,
+                  "bn": 5780,
+                  "votes": 46468,
+                  "c13": 12720,"c25": 2528
               },{"dep" : "SAINTE MARIE", "id": 5204,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 13704,
+                  "votants": 7122,
+                  "bn": 446,
+                  "votes": 6676,
+                  "c13": 4681,"c25": 756
               },{"dep" : "SOANIERANA IVONGO", "id": 5205,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 57888,
+                  "votants": 31883,
+                  "bn": 4069,
+                  "votes": 27814,
+                  "c13": 17282,"c25": 2536
               },{"dep" : "VAVATENINA", "id": 5206,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 64700,
+                  "votants": 39140,
+                  "bn": 4456,
+                  "votes": 34684,
+                  "c13": 18896,"c25": 5815
               }]
         },{ "reg": "ATSINANANA", "id": 53, "prov": "TMM",
             "inscrits":  576322,
@@ -695,47 +695,47 @@
             "c13": 141952, "c25": 37193,
             "departments": [
               {"dep" : "ANTANAMBAO MANAMPOTSY", "id": 5301,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 21808,
+                  "votants": 12052,
+                  "bn": 846,
+                  "votes": 11206,
+                  "c13": 4117,"c25": 1789
               },{"dep" : "BRICKAVILLE", "id": 5302,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 84920,
+                  "votants": 39177,
+                  "bn": 4456,
+                  "votes": 34721,
+                  "c13": 20621,"c25": 3128
               },{"dep" : "MAHANORO", "id": 5303,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 89059,
+                  "votants": 46386,
+                  "bn": 4554,
+                  "votes": 41832,
+                  "c13": 22792,"c25": 3124
               },{"dep" : "MAROLAMBO", "id": 5304,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 58382,
+                  "votants": 28462,
+                  "bn": 1851,
+                  "votes": 26611,
+                  "c13": 13701,"c25": 3888
               },{"dep" : "TOAMASINA I", "id": 5305,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 161893,
+                  "votants": 65791,
+                  "bn": 2626,
+                  "votes": 63165,
+                  "c13": 38281,"c25": 16220
               },{"dep" : "TOAMASINA II", "id": 5306,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 93470,
+                  "votants": 48292,
+                  "bn": 4747,
+                  "votes": 43545,
+                  "c13": 26294,"c25": 4668
               },{"dep": "VATOMANDRY", "id": 5307,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 66790,
+                  "votants": 36219,
+                  "bn": 3969,
+                  "votes": 32250,
+                  "c13": 16146,"c25": 4376
               }]
         },{ "reg": "ANDROY", "id": 61, "prov": "TLE",
             "inscrits": 313260,
