@@ -264,29 +264,29 @@
             "c13": 55664,"c25": 70695,
             "departments": [
               {"dep": "AMBATOFINANDRAHANA", "id": 3101,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 65538,
+                  "votants": 37131,
+                  "bn": 3246,
+                  "votes": 33885,
+                  "c13": 8018,"c25": 17944
               },{"dep": "AMBOSITRA", "id": 3102,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 107908,
+                  "votants": 61402,
+                  "bn": 4334,
+                  "votes": 57068,
+                  "c13": 22956,"c25": 21949
               },{"dep": "FANDRIANA", "id": 3103,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 82904,
+                  "votants": 52876,
+                  "bn": 3501,
+                  "votes": 49375,
+                  "c13": 17630,"c25": 19548
               },{"dep": "MANANDRIANA", "id": 3104,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 41221,
+                  "votants": 26020,
+                  "bn": 2570,
+                  "votes": 23450,
+                  "c13": 7060,"c25": 11254
               }]
         },{ "reg": "ATSIMO ATSINANANA", "id": 32, "prov": "WFI",
             "inscrits": 328751,
@@ -296,35 +296,35 @@
             "c12": 23686, "c13": 56941, "c25": 11903,
             "departments": [
               {"dep": "BEFOTAKA SUD", "id": 3201,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 18258,
+                  "votants": 9143,
+                  "bn": 309,
+                  "votes": 8834,
+                  "c13": 3657,"c25":140
               },{"dep": "FARAFANGANA", "id": 3202,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 132392,
+                  "votants": 64776,
+                  "bn": 4545,
+                  "votes": 60231,
+                  "c13": 18964,"c25": 4432
               },{"dep": "MIDONGY SUD", "id": 3203,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 17983,
+                  "votants": 9100,
+                  "bn": 338,
+                  "votes": 8762,
+                  "c13": 4274,"c25": 1034
               },{"dep": "VANGAINDRANO", "id": 3204,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 108974,
+                  "votants": 51870,
+                  "bn": 3663,
+                  "votes": 48207,
+                  "c13": 19467,"c25": 3 670
               },{"dep": "VONDROZO", "id": 3205,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 51144,
+                  "votants": 24385,
+                  "bn": 1397,
+                  "votes": 22988,
+                  "c13": 10579,"c25": 2 627
               }]
         },{ "reg": "HAUTE MATSIATRA", "id": 33, "prov": "WFI",
             "inscrits": 524464,
