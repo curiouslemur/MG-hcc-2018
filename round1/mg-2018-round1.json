@@ -334,47 +334,47 @@
             "c12": 12064, "c13": 118750, "c25": 74417,
             "departments": [
               {"dep": "AMBALAVAO", "id": 3301,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 98542,
+                  "votants": 52061,
+                  "bn": 4145,
+                  "votes": 47916,
+                  "c13": 21838,"c25": 13229
               },{"dep": "AMBOHIMAHASOA", "id": 3302,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 91333,
+                  "votants": 50348,
+                  "bn": 5493,
+                  "votes": 44855,
+                  "c13": 16344,"c25": 16525
               },{"dep": "FIANARANTSOA I", "id": 3303,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 93960,
+                  "votants": 44315,
+                  "bn": 1782,
+                  "votes": 42533,
+                  "c13": 25870,"c25": 10256
               },{"dep": "ISANDRA", "id": 3304,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 52467,
+                  "votants": 27500,
+                  "bn": 2389,
+                  "votes": 25 111,
+                  "c13": 10556,"c25": 8278
               },{"dep": "IKALAMAVONY", "id": 3305,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 39067,
+                  "votants": 13988,
+                  "bn": 1160,
+                  "votes": 12828,
+                  "c13": 6019,"c25": 3308
               },{"dep": "VOHIBATO", "id": 3306,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 80443,
+                  "votants": 44576,
+                  "bn": 6147,
+                  "votes": 38429,
+                  "c13": 18624,"c25": 10061
               },{"dep": "LALANGINA", "id": 3307,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 68652,
+                  "votants": 44120,
+                  "bn": 4671,
+                  "votes": 39449,
+                  "c13": 19499,"c25": 12760
               }]
         },{ "reg": "IHOROMBE", "id": 34, "prov": "WFI",
             "inscrits": 154467,
@@ -384,23 +384,23 @@
             "c13": 31962, "c25": 11447,
             "departments": [
               {"dep" : "IAKORA", "id": 3401,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 20199,
+                  "votants": 10147,
+                  "bn": 865,
+                  "votes": 9282,
+                  "c13": 4146,"c25": 3257
               },{"dep" : "IHOSY", "id": 3402,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 107657,
+                  "votants": 42320,
+                  "bn": 3306,
+                  "votes": 39014,
+                  "c13": 21970,"c25": 6695
               },{"dep" : "IVOHIBE", "id": 3403,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 26611,
+                  "votants": 11558,
+                  "bn": 1042,
+                  "votes": 10516,
+                  "c13": 5846,"c25": 1495
               }
             ]
         },{ "reg": "VATOVAVY FITOVINANY", "id": 35, "prov": "WFI",
