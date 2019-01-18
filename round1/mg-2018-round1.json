@@ -232,29 +232,29 @@
             "c12": 75563, "c13": 55557,"c25": 8111,
             "departments": [
               {"dep": "ANDAPA", "id": 2201,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 77644,
+                  "votants": 36922,
+                  "bn": 1914,
+                  "votes": 35008,
+                  "c13": 13119,"c25": 1766
               },{"dep": "ANTALAHA", "id": 2202,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 85108,
+                  "votants": 41846,
+                  "bn": 3047,
+                  "votes": 38799,
+                  "c13": 14081,"c25": 2536
               },{"dep": "SAMBAVA", "id": 2203,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 118247,
+                  "votants": 68146,
+                  "bn": 2811,
+                  "votes": 65335,
+                  "c13": 13583,"c25": 2573
               },{"dep": "VOHEMAR", "id": 2204,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 90088,
+                  "votants": 41718,
+                  "bn": 2632,
+                  "votes": 39086,
+                  "c13": 14774,"c25": 1236
               }]
         },{ "reg": "AMORON'I MANIA", "id": 31, "prov": "WFI",
             "inscrits": 297571,
