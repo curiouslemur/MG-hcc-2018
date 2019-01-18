@@ -144,47 +144,47 @@
             "c12": 8651, "c13": 106834,"c25": 303284,
             "departments":[
               {"dep": "AMBATOLAMPY", "id": 1401,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": , "c25":
+                  "inscrits": 122662,
+                  "votants": 72980,
+                  "bn": 6519,
+                  "votes": 66461,
+                  "c13": 17393, "c25": 37495
               },{"dep": "ANTANIFOTSY", "id": 1402,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": , "c25":
+                  "inscrits": 136092,
+                  "votants": 87399,
+                  "bn": 9771,
+                  "votes": 77628,
+                  "c13": 12731, "c25": 51826
               },{"dep": "ANTSIRABE I", "id": 1403,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": , "c25":
+                  "inscrits": 129963,
+                  "votants": 74353,
+                  "bn": 4553,
+                  "votes": 69800,
+                  "c13": 21544, "c25": 40470
               },{"dep": "ANTSIRABE II", "id": 1404,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": , "c25":
+                  "inscrits": 175563,
+                  "votants": 115536,
+                  "bn": 11059,
+                  "votes": 104477,
+                  "c13": 19590, "c25": 68622
               },{"dep": "BETAFO", "id": 1405,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": , "c25":
+                  "inscrits": 114618,
+                  "votants": 77411,
+                  "bn": 6980,
+                  "votes": 70431,
+                  "c13": 10579, "c25": 50728
               },{"dep": "FARATSIHO", "id": 1406,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": , "c25":
+                  "inscrits": 89286,
+                  "votants":58116,
+                  "bn": 5488,
+                  "votes": 52628,
+                  "c13": 17444, "c25": 29379
               },{"dep": "MANDOTO", "id": 1407,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": , "c25":
+                  "inscrits": 66088,
+                  "votants": 39728,
+                  "bn": 3093,
+                  "votes": 36635,
+                  "c13": 7553, "c25": 24764
               }]
         },{"reg": "DIANA", "id": 21, "prov": "DIE",
             "inscrits": 380600,
