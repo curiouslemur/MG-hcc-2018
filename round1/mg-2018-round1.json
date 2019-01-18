@@ -411,41 +411,41 @@
             "c13": 107639, "c25": 39615,
             "departments": [
               {"dep" : "IFANADIANA", "id": 3501,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 62054,
+                  "votants": 29040,
+                  "bn": 2324,
+                  "votes": 26716,
+                  "c13": 12751,"c25": 7524
               },{"dep" : "IKONGO", "id": 3502,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 71996,
+                  "votants": 33957,
+                  "bn": 2380,
+                  "votes": 31577,
+                  "c13": 12915,"c25": 7733
               },{"dep" : "MANANKARA", "id": 3503,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 137302,
+                  "votants": 63106,
+                  "bn": 5574,
+                  "votes": 57532,
+                  "c13": 26531,"c25": 8140
               },{"dep" : "MANANJARY", "id": 3504,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 105519,
+                  "votants": 52244,
+                  "bn": 4525,
+                  "votes": 47719,
+                  "c13": 23112,"c25": 7660
               },{"dep" : "NOSY VARIKA", "id": 3505,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 77845,
+                  "votants": 41099,
+                  "bn": 3094,
+                  "votes": 38005,
+                  "c13": 17631,"c25": 6784
               },{"dep" : "VOHIPENO", "id": 3506,
-                  "inscrits":
-                  "votants":
-                  "bn":
-                  "votes":
-                  "c13": ,"c25":
+                  "inscrits": 49226,
+                  "votants": 28638,
+                  "bn": 2582,
+                  "votes": 26056,
+                  "c13": 14699,"c25": 1774
               }]
         },{ "reg": "BETSIBOKA", "id": 41, "prov": "MJN",
             "inscrits": 136737,
