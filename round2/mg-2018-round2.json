@@ -92,11 +92,11 @@
                   "c13": 12772, "c25": 53019
               }]
         },{"reg": "BONGOLAVA", "id": 12, "prov": "TNR",
-            "inscrits": ,
-            "votants": ,
-            "bn": ,
-            "votes": ,
-            "c13": , "c25": ,
+            "inscrits": 231307,
+            "votants": 110361,
+            "bn": 3167,
+            "votes": 107194,
+            "c13": 28072, "c25": 79122,
             "departments":[
               {"dep": "FENOARIVOBE", "id": 1201,
                   "inscrits": ,
@@ -112,11 +112,11 @@
                   "c13": , "c25":
               }]
         },{ "reg": "ITASY","id": 13, "prov": "TNR",
-            "inscrits": ,
-            "votants": ,
-            "bn": ,
-            "votes": ,
-            "c13": , "c25": ,
+            "inscrits": 363050,
+            "votants": 188776,
+            "bn": 3896,
+            "votes": 184880,
+            "c13": 49690, "c25": 135190,
             "departments":[
               {"dep": "ARIVONIMAMO", "id": 1301,
                   "inscrits": ,
@@ -138,11 +138,11 @@
                 "c13": , "c25":
             }]
         },{"reg": "VAKINANKARATRA", "id": 14, "prov": "TNR",
-            "inscrits": ,
-            "votants": ,
-            "bn": ,
-            "votes": ,
-            "c13": ,"c25": ,
+            "inscrits": 834804,
+            "votants": 433901,
+            "bn": 11224,
+            "votes": 422677,
+            "c13": 129570,"c25": 293107,
             "departments":[
               {"dep": "AMBATOLAMPY", "id": 1401,
                   "inscrits": ,
