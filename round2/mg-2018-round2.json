@@ -188,11 +188,11 @@
                   "c13": , "c25":
               }]
         },{"reg": "DIANA", "id": 21, "prov": "DIE",
-            "inscrits": 333164,
-            "votants": 137751,
-            "bn": 4320,
-            "votes": 133431,
-            "c13": 97901, "c25": 35530,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep": "AMBANJA", "id": 2101,
                   "inscrits": ,
@@ -226,11 +226,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "SAVA", "id": 22, "prov": "DIE",
-            "inscrits": 371252,
-            "votants": 158277,
-            "bn": 3560,
-            "votes": 154717,
-            "c13": 134339,"c25": 20378,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": ,"c25": ,
             "departments": [
               {"dep": "ANDAPA", "id": 2201,
                   "inscrits": ,
@@ -258,11 +258,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "AMORON'I MANIA", "id": 31, "prov": "WFI",
-            "inscrits": 297894,
-            "votants": 155757,
-            "bn": 4123,
-            "votes": 151634,
-            "c13": 83883,"c25": 67751,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": ,"c25": ,
             "departments": [
               {"dep": "AMBATOFINANDRAHANA", "id": 3101,
                   "inscrits": ,
@@ -290,11 +290,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "ATSIMO ATSINANANA", "id": 32, "prov": "WFI",
-            "inscrits": 329585,
-            "votants": 143696,
-            "bn": 3120,
-            "votes": 140576,
-            "c13": 97908, "c25": 42668,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep": "BEFOTAKA SUD", "id": 3201,
                   "inscrits": ,
@@ -328,11 +328,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "HAUTE MATSIATRA", "id": 33, "prov": "WFI",
-            "inscrits": 525376,
-            "votants": 218500,
-            "bn": 6128,
-            "votes": 212372,
-            "c13": 122939, "c25": 122939,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep": "AMBALAVAO", "id": 3301,
                   "inscrits": ,
@@ -378,11 +378,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "IHOROMBE", "id": 34, "prov": "WFI",
-            "inscrits": 153566,
-            "votants": 51530,
-            "bn": 1521,
-            "votes": 50009,
-            "c13": 33575, "c25": 16434,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep" : "IAKORA", "id": 3401,
                   "inscrits": ,
@@ -405,11 +405,11 @@
               }
             ]
         },{ "reg": "VATOVAVY FITOVINANY", "id": 35, "prov": "WFI",
-            "inscrits": 505607,
-            "votants": 211445,
-            "bn": 7461,
-            "votes": 203984,
-            "c13": 135447, "c25": 68537,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep" : "IFANADIANA", "id": 3501,
                   "inscrits": ,
@@ -449,11 +449,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "BETSIBOKA", "id": 41, "prov": "MJN",
-            "inscrits": 136609,
-            "votants": 64906,
-            "bn": 2102,
-            "votes": 62804,
-            "c13": 19220, "c25": 43584,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep" : "KANDREHO", "id": 4101,
                   "inscrits": ,
@@ -475,11 +475,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "BOENY", "id": 42, "prov": "MJN",
-            "inscrits": 378492,
-            "votants": 158253,
-            "bn": 5039,
-            "votes": 153214,
-            "c13": 75846, "c25": 77368,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep" : "AMBATO BOENY", "id": 4201,
                   "inscrits": ,
@@ -519,11 +519,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "MELAKY", "id": 43, "prov": "MJN",
-            "inscrits": 124262,
-            "votants": 49172,
-            "bn": 1172,
-            "votes": 48000,
-            "c13": 37838, "c25": 10162,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep" : "AMBATOMAINTY", "id": 4301,
                   "inscrits": ,
@@ -557,11 +557,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "SOFIA", "id": 44, "prov": "MJN",
-            "inscrits": 498959,
-            "votants": 255722,
-            "bn": 5873,
-            "votes": 249849,
-            "c13": 175064, "c25": 74785,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep" : "ANALALAVA", "id": 4401,
                   "inscrits": ,
@@ -607,11 +607,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "ALAOTRA MANGORO", "id": 51, "prov": "TMM",
-            "inscrits": 492843,
-            "votants": 241781,
-            "bn": 5138,
-            "votes": 236643,
-            "c13": 114098, "c25": 122545,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep" : "AMBATONDRAZAKA", "id": 5101,
                   "inscrits": ,
@@ -645,11 +645,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "ANALANJIROFO", "id": 52, "prov": "TMM",
-            "inscrits": 433067,
-            "votants": 221933,
-            "bn": 8608,
-            "votes": 213325,
-            "c13": 183307, "c25": 30018,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep" : "FENERIVE EST", "id": 5201,
                   "inscrits": ,
@@ -689,11 +689,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "ATSINANANA", "id": 53, "prov": "TMM",
-            "inscrits": 577149,
-            "votants": 246168,
-            "bn": 8128,
-            "votes": 238040,
-            "c13": 182339, "c25": 55701,
+            "inscrits":  ,
+            "votants":,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep" : "ANTANAMBAO MANAMPOTSY", "id": 5301,
                   "inscrits": ,
@@ -739,11 +739,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "ANDROY", "id": 61, "prov": "TLE",
-            "inscrits": 314031,
-            "votants": 181366,
-            "bn": 4757,
-            "votes": 76609,
-            "c13": 116933, "c25": 59676,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep": "AMBOVOMBE ANDROY", "id": 6101,
                   "inscrits": ,
@@ -771,11 +771,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "ANOSY", "id": 62, "prov": "TLE",
-            "inscrits": 289297,
-            "votants": 147288,
-            "bn": 4142,
-            "votes": 143146,
-            "c13": 97744, "c25": 45402,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep": "AMBOASARY SUD", "id": 6201,
                   "inscrits": ,
@@ -797,11 +797,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "ATSIMO ANDREFANA", "id": 63, "prov": "TLE",
-            "inscrits": 551837,
-            "votants": 291701,
-            "bn": 5430,
-            "votes": 286271,
-            "c13": 225956, "c25": 60315,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep": "AMPANIHY OUEST", "id": 6301,
                   "inscrits": ,
@@ -859,11 +859,11 @@
                   "c13": ,"c25":
               }]
         },{ "reg": "MENABE", "id": 64, "prov": "TLE",
-            "inscrits": 265049,
-            "votants": 119648,
-            "bn": 1931,
-            "votes": 117717,
-            "c13": 54677, "c25": 63040,
+            "inscrits": ,
+            "votants": ,
+            "bn": ,
+            "votes": ,
+            "c13": , "c25": ,
             "departments": [
               {"dep": "BELO SUR TSIRIBIHINA", "id": 6401,
                   "inscrits": ,
